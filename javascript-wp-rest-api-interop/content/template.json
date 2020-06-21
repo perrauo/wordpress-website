@@ -1,0 +1,17 @@
+[
+    {
+      "keywords": [
+        "java",
+        "beginner",
+        "debutant"
+      ],
+      "course_id": -1,
+      "product_id": -1,
+      "section_id": -1,
+      "price": "0",
+      "title": "Learn Java with Java Quest - Part 1",
+      "slug": "learn-java-with-java-quest-part1",
+      "path": "/content/javaquest-part1",
+      "lessons": {}
+    }
+  ]
