@@ -65,7 +65,7 @@
     "node-blob": "0.0.2",
     "showdown": "^1.9.1",
     "snapsvg": "^0.5.1",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "viz.js": "^2.1.2",
     "wavedrom": "^2.1.6",
     "webfontloader": "^1.6.28",
