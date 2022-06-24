@@ -60,7 +60,7 @@
     "formdata-node": "^2.1.1",
     "http-status-codes": "^1.4.0",
     "jquery": "^3.5.0",
-    "jsdom": "^16.2.2",
+    "jsdom": "^16.5.0",
     "llms-api-node": "^1.0.4",
     "node-blob": "0.0.2",
     "showdown": "^1.9.1",
